@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Maycon
 
-<!--
-**mayconwendell/mayconwendell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+📍 Rio de Janeiro – RJ
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou desenvolvedor iniciante focado em Python, com experiência em projetos práticos como automação de tarefas, manipulação de arquivos e desenvolvimento de sistemas de terminal.
+
+---
+
+## 🛠️ Tecnologias
+
+* Python
+* JSON
+* Lógica de programação
+
+---
+
+## 📌 Projetos em destaque
+
+* 🔹 Sistema de Tarefas
+* 🔹 Organizador de Arquivos
+* 🔹 Lista de Compras
+
+---
+
+## 📫 Contato
+
+📧 [mayconwendell564@gmail.com](mailto:mayconwendell564@gmail.com)
+💻 https://github.com/mayconwendell
