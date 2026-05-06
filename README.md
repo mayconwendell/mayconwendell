@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Maycon
+# Olá, eu sou o Maycon
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 📍 Rio de Janeiro – RJ
