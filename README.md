@@ -5,29 +5,45 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor iniciante focado em Python, com experiência em projetos práticos como automação de tarefas, manipulação de arquivos e desenvolvimento de sistemas de terminal.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Python, lógica de programação, automação e desenvolvimento back-end.
 
----
+Atualmente desenvolvendo projetos práticos utilizando Python, JSON, CSV, Pandas e Matplotlib, aplicando conceitos de manipulação de dados, organização de sistemas e visualização de informações.
 
-## 🛠️ Tecnologias
+Busco evoluir continuamente através da prática e desenvolvimento de projetos próprios, focando em soluções reais e aprimoramento técnico constante.
+
+## Projetos em destaque
+
+### Sistema Financeiro em Python
+
+Sistema para controle de receitas e despesas com cadastro de movimentações financeiras, categorização, geração de relatórios, exportação de dados e gráficos para análise financeira.
+
+Tecnologias utilizadas:
+
+* Python
+* Pandas
+* Matplotlib
+* JSON
+* CSV
+
+### Sistema de Tarefas em Python
+
+Aplicação desenvolvida para gerenciamento de tarefas com funcionalidades de cadastro, remoção, listagem e conclusão de tarefas, utilizando persistência de dados em JSON.
+
+Tecnologias utilizadas:
 
 * Python
 * JSON
-* Lógica de programação
 
----
+## Tecnologias
 
-## 📌 Projetos em destaque
+Python • Pandas • Matplotlib • JSON • CSV • Git • GitHub
 
-* 🔹 Sistema de Tarefas
-* 🔹 Organizador de Arquivos
-* 🔹 Lista de Compras
+## Objetivo
 
----
+Buscando oportunidade de estágio em desenvolvimento Python para evoluir nas áreas de back-end, automação e dados.
 
-## 📫 Contato
 
 📧 [mayconwendell564@gmail.com](mailto:mayconwendell564@gmail.com)
 💻 https://github.com/mayconwendell
